@@ -5,4 +5,4 @@ The content of this page is at: [Homepage of Philippe Fremy](http://www.freehack
 ## Conference
 I am speaking at [PyParis 2018](http://pyparis.org/talks.html) on *Type Annotations with Python*. 
 
-My slides are available here: [Powerpoint version](Type Annotations PyParis 2018 - v4.pptx) and [PDF Version](Type Annotations PyParis 2018 - v4.pdf)
+My slides are available here: [Powerpoint version](https://github.com/bluebird75/whoiam/blob/master/PyParis_2018/Type%20Annotations%20PyParis%202018%20-%20v4.pptx?raw=true) and [PDF Version](https://github.com/bluebird75/whoiam/raw/master/PyParis_2018/Type%20Annotations%20PyParis%202018%20-%20v4%20for%20pdf.pdf)
