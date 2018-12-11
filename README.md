@@ -2,6 +2,28 @@
 
 The content of this page is at: [Homepage of Philippe Fremy](http://www.freehackers.org/Philippe_Fremy)
 
+## Open Source Software 
+
+I am part of the Free and Open Source Software community since I discovered Linux in 1995.
+
+### My Software
+
+I have written the below free softwares:
+* [LuaUnit](https://github.com/bluebird75/luaunit): A unit-testing framework for the Lua language with more than 400k downloads.
+* [Klotski](http://www.freehackers.org/Klotski): a mind-teaser game
+* [Indent Finder](http://www.freehackers.org/Indent_Finder): analyse source code indentation to set your editor automatically
+* [PyTiCroque](http://www.freehackers.org/PyTiCroque): a software to help playing at www.croquemonster.com
+
+### Software where I contribute
+
+I am a major contributor to the below softwares:
+* [winpdb](https://github.com/bluebird75/winpdb): I maintain Winpdb after the initial author dropped support for it.
+* [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum.
+* [sxtool](https://github.com/bluebird75/sxtool): I maintain this nice tool to edit s-records files (used on embedded devices to load some binary data).
+
+And of course, there are other smaller projects on my [GitHub repositories](https://github.com/bluebird75?tab=repositories)
+
+
 ## Conferences
 I am speaking at [PyParis 2018](http://pyparis.org/talks.html) on *Type Annotations with Python*. 
 
