@@ -44,3 +44,19 @@ I have done several interviews of free software projects that I love. The interv
 * February 2002, [Interview of the KOffice team](http://www.freehackers.org/Fosdem_2002:_Koffice_team_interview)
 * February 2002, [Interview of the Fosdem organiser Raphael Bauduin](http://www.freehackers.org/Fosdem_2002:_Fosdem_organiser_interview)
 * September 2001, [Interview of Qt creator and Trolltech founder Eirik Eng](http://dot.kde.org/2001/09/24/interview-trolltechs-president-eirik-eng), published on [dot.kde.org](http://dot.kde.org/)
+
+
+## Report on past events ##
+I have written some reports about events I participated in.
+
+* 2003, [KDE has tea with RMS](https://www.freehackers.org/KDE_has_tea_with_RMS) (that was the first time that RMS actually gave recognition to KDE)
+* 2003, [Linux Solutions 2003](https://www.freehackers.org/Linux_Solutions_2003)
+* 2002, [Fosdem 2002 Report](https://www.freehackers.org/Fosdem_2002_Report) by me and my best friend Orzel
+* 2002, [Report about Linux Expo 2002](https://www.freehackers.org/Linux_Expo_2002)
+
+## Knowledge base ##
+Pages about specific knowledge that I wrote for future reference:
+* [Packaging a python program](https://www.freehackers.org/Packaging_a_python_program)
+* [Surviving on Windows for linux freaks](https://www.freehackers.org/Surviving_on_Windows)
+* [Developing Free Software on windows](https://www.freehackers.org/Developing_Free_Software_on_windows)
+
