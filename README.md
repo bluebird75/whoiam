@@ -16,7 +16,7 @@ I have written the below free softwares:
 
 ### Software where I contribute
 
-I am a major contributor to the below softwares:
+I am a contributor to the below softwares:
 * [winpdb](https://github.com/bluebird75/winpdb): I maintain Winpdb after the initial author dropped support for it.
 * [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum.
 * [sxtool](https://github.com/bluebird75/sxtool): I maintain this nice tool to edit s-records files (used on embedded devices to load some binary data).
@@ -32,12 +32,12 @@ My slides are available here: [Powerpoint version](https://github.com/bluebird75
 The [video of my talk](https://www.youtube.com/watch?v=URP2e7hEUFw&list=PLzjFI0G5nSsry3cm_k1tPOi9SRaAXsZAt&index=6) has been published.
 
 ## Interviews and Articles 
-I have done several interviews of free software projects that I love. The interviews were done just for fun, and published on dedicated  free software news sites.
+In the past, I have done several interviews of free software projects or authors, which I love. The interviews were done just for fun, and published on dedicated  free software news sites. I also sometimes write news articles on [LinuxFr](http://linuxfr.org).
 
-* September 2018, [Detailed description of the Python 3.7 release](https://linuxfr.org/news/sortie-de-python-3-7), published on [LinuxFr](https://linuxfr.org/)
+* September 2018, [Detailed description of the Python 3.7 release chances](https://linuxfr.org/news/sortie-de-python-3-7), published on [LinuxFr](https://linuxfr.org/)
 * April 2014, [Overview of the different Python VM](https://linuxfr.org/news/un-projet-de-vm-python-chez-dropbox-et-etat-des-lieux-des-autres-vm), published on [LinuxFr](https://linuxfr.org/)
+* April 2011, [Interview of three french Python core-developers](https://linuxfr.org/news/entretien-avec-les-d%C3%A9veloppeurs-python-francophones) of the Python language, published on [LinuxFr](http://linuxfr.org)
 * April and October 2009, two articles on [PyPy](https://linuxfr.org/users/bluebird/journaux/des-nouvelles-de-pypy) and [the Unladen Swallow Python project](https://linuxfr.org/news/publication-de-unladen-swallow-2009q3) on [LinuxFr](http://linuxfr.org)
-* April 2011, [Interview of three french core-developers](https://linuxfr.org/news/entretien-avec-les-d%C3%A9veloppeurs-python-francophones) of the Python language, published on [LinuxFr](http://linuxfr.org)
 * April 2004, [Interview of Qt creator and Trolltech founder Eirik Eng and KDE founder Mattias Ettrich](http://dot.kde.org/2004/04/12/interview-trolltechs-eirik-eng-and-matthias-ettrich), published on [dot.kde.org](http://dot.kde.org)
 * May 2002, [Interview of the KDevelop Team](http://www.freehackers.org/KDevelop_Team_Interview,_2002)
 * February 2002, [Interview of Guido van Rossum](http://www.freehackers.org/Fosdem_2002:_Guido_van_Rossum_interview), creator of the Python language
