@@ -17,15 +17,15 @@ I have written the below free softwares:
 ### Software where I contribute
 
 I am a contributor to the below softwares:
-* [winpdb](https://github.com/bluebird75/winpdb): I maintain Winpdb after the initial author dropped support for it.
-* [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum.
+* [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum (author of the Python language).
 * [sxtool](https://github.com/bluebird75/sxtool): I maintain this nice tool to edit s-records files (used on embedded devices to load some binary data).
+* [PyQt5-stubs](https://github.com/python-qt-tools/PyQt5-stubs): I contribute to the stubs allowing code static type checking with mypy, for the PyQt5 library.
 
 And of course, there are other smaller projects on my [GitHub repositories](https://github.com/bluebird75?tab=repositories)
 
 
 ## Conferences
-I am speaking at [PyParis 2018](http://pyparis.org/talks.html) on *Type Annotations with Python*. 
+I spoke at [PyParis 2018](http://pyparis.org/talks.html) on *Type Annotations with Python*. 
 
 My slides are available here: [Powerpoint version](https://github.com/bluebird75/whoiam/blob/master/PyParis_2018/Type%20Annotations%20PyParis%202018%20-%20v4.pptx?raw=true) and [PDF Version](https://github.com/bluebird75/whoiam/raw/master/PyParis_2018/Type%20Annotations%20PyParis%202018%20-%20v4%20for%20pdf.pdf)
 
