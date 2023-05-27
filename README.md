@@ -1,6 +1,7 @@
 # Homepage of Philippe Fremy (bluebird75 on GitHub)
 
-The content of this page is at: [Homepage of Philippe Fremy](http://www.freehackers.org/Philippe_Fremy)
+This is a page to reflect about my life in the open source community.
+
 
 ## Open Source Software 
 
@@ -9,6 +10,7 @@ I am part of the Free and Open Source Software community since I discovered Linu
 ### My Software
 
 I have written the below free softwares:
+* [MultiGit](https://github.com/idemia/multigit): A graphical interface for managing multiple nested git repositories. Developed as part of my work at IDEMIA and open sourced by IDEMIA.
 * [LuaUnit](https://github.com/bluebird75/luaunit): A unit-testing framework for the Lua language with more than 400k downloads.
 * [Klotski](http://www.freehackers.org/Klotski): a mind-teaser game
 * [Indent Finder](http://www.freehackers.org/Indent_Finder): analyse source code indentation to set your editor automatically
@@ -17,9 +19,11 @@ I have written the below free softwares:
 ### Software where I contribute
 
 I am a contributor to the below softwares:
+* Python static typing stubs for PyQt and Qt for Python:
+** [PyQt5-stubs](https://github.com/python-qt-tools/PyQt5-stubs): for PyQt5
+** [PySide2-stubs](https://github.com/python-qt-tools/PySide2-stubs): for PySide2 / Qt5 for Python
 * [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum (author of the Python language).
 * [sxtool](https://github.com/bluebird75/sxtool): I maintain this nice tool to edit s-records files (used on embedded devices to load some binary data).
-* [PyQt5-stubs](https://github.com/python-qt-tools/PyQt5-stubs): I contribute to the stubs allowing code static type checking with mypy, for the PyQt5 library.
 
 And of course, there are other smaller projects on my [GitHub repositories](https://github.com/bluebird75?tab=repositories)
 
