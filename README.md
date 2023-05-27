@@ -20,8 +20,8 @@ I have written the below free softwares:
 
 I am a contributor to the below softwares:
 * Python static typing stubs for PyQt and Qt for Python:
-** [PyQt5-stubs](https://github.com/python-qt-tools/PyQt5-stubs): for PyQt5
-** [PySide2-stubs](https://github.com/python-qt-tools/PySide2-stubs): for PySide2 / Qt5 for Python
+  * [PyQt5-stubs](https://github.com/python-qt-tools/PyQt5-stubs): for PyQt5
+  * [PySide2-stubs](https://github.com/python-qt-tools/PySide2-stubs): for PySide2 / Qt5 for Python
 * [pyannotate](https://github.com/bluebird75/pyannotate): I contributed the generation of Python 3 annotations, which was merged by Guido van Rossum (author of the Python language).
 * [sxtool](https://github.com/bluebird75/sxtool): I maintain this nice tool to edit s-records files (used on embedded devices to load some binary data).
 
