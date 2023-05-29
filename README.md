@@ -58,9 +58,3 @@ I have written some reports about events I participated in.
 * 2002, [Fosdem 2002 Report](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Report) by me and my best friend Orzel
 * 2002, [Report about Linux Expo 2002](https://freehackers.org/meta/static/-/wikis/archives/Linux%20Expo%202002)
 
-## Knowledge base ##
-Pages about specific knowledge that I wrote for future reference:
-* [Packaging a python program](https://www.freehackers.org/Packaging_a_python_program)
-* [Surviving on Windows for linux freaks](https://www.freehackers.org/Surviving_on_Windows)
-* [Developing Free Software on windows](https://www.freehackers.org/Developing_Free_Software_on_windows)
-
