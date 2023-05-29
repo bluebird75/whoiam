@@ -43,10 +43,10 @@ In the past, I have done several interviews of free software projects or authors
 * April 2011, [Interview of three french Python core-developers](https://linuxfr.org/news/entretien-avec-les-d%C3%A9veloppeurs-python-francophones) of the Python language, published on [LinuxFr](http://linuxfr.org)
 * April and October 2009, two articles on [PyPy](https://linuxfr.org/users/bluebird/journaux/des-nouvelles-de-pypy) and [the Unladen Swallow Python project](https://linuxfr.org/news/publication-de-unladen-swallow-2009q3) on [LinuxFr](http://linuxfr.org)
 * April 2004, [Interview of Qt creator and Trolltech founder Eirik Eng and KDE founder Mattias Ettrich](http://dot.kde.org/2004/04/12/interview-trolltechs-eirik-eng-and-matthias-ettrich), published on [dot.kde.org](http://dot.kde.org)
-* May 2002, [Interview of the KDevelop Team]([http://www.freehackers.org/KDevelop_Team_Interview,_2002](https://freehackers.org/meta/static/-/wikis/archives/KDevelop-Team-Interview-2002))
-* February 2002, [Interview of Guido van Rossum]([http://www.freehackers.org/Fosdem_2002:_Guido_van_Rossum_interview](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Guido%20van%20Rossum%20interview)), creator of the Python language
-* February 2002, [Interview of the KOffice team]([http://www.freehackers.org/Fosdem_2002:_Koffice_team_interview](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Koffice%20team%20interview))
-* February 2002, [Interview of the Fosdem organiser Raphael Bauduin]([http://www.freehackers.org/Fosdem_2002:_Fosdem_organiser_interview](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Fosdem%20organiser%20interview))
+* May 2002, [Interview of the KDevelop Team](https://freehackers.org/meta/static/-/wikis/archives/KDevelop-Team-Interview-2002)
+* February 2002, [Interview of Guido van Rossum](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Guido%20van%20Rossum%20interview), creator of the Python language
+* February 2002, [Interview of the KOffice team](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Koffice%20team%20interview)
+* February 2002, [Interview of the Fosdem organiser Raphael Bauduin](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Fosdem%20organiser%20interview)
 * September 2001, [Interview of Qt creator and Trolltech founder Eirik Eng](http://dot.kde.org/2001/09/24/interview-trolltechs-president-eirik-eng), published on [dot.kde.org](http://dot.kde.org/)
 
 
