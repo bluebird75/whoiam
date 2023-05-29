@@ -53,10 +53,10 @@ In the past, I have done several interviews of free software projects or authors
 ## Report on past events ##
 I have written some reports about events I participated in.
 
-* 2003, [KDE has tea with RMS]([https://www.freehackers.org/KDE_has_tea_with_RMS](https://freehackers.org/meta/static/-/wikis/archives/KDE%20has%20tea%20with%20RMS)) (that was the first time that RMS actually gave recognition to KDE)
-* 2003, [Linux Solutions 2003]([https://www.freehackers.org/Linux_Solutions_2003](https://freehackers.org/meta/static/-/wikis/archives/Linux%20Solutions%202003))
-* 2002, [Fosdem 2002 Report]([https://www.freehackers.org/Fosdem_2002_Report](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Report)) by me and my best friend Orzel
-* 2002, [Report about Linux Expo 2002]([https://www.freehackers.org/Linux_Expo_2002](https://freehackers.org/meta/static/-/wikis/archives/Linux%20Expo%202002))
+* 2003, [KDE has tea with RMS](https://freehackers.org/meta/static/-/wikis/archives/KDE%20has%20tea%20with%20RMS) (that was the first time that RMS actually gave recognition to KDE)
+* 2003, [Linux Solutions 2003](https://freehackers.org/meta/static/-/wikis/archives/Linux%20Solutions%202003)
+* 2002, [Fosdem 2002 Report](https://freehackers.org/meta/static/-/wikis/archives/Fosdem%202002%20Report) by me and my best friend Orzel
+* 2002, [Report about Linux Expo 2002](https://freehackers.org/meta/static/-/wikis/archives/Linux%20Expo%202002)
 
 ## Knowledge base ##
 Pages about specific knowledge that I wrote for future reference:
