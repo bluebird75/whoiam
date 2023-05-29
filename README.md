@@ -13,7 +13,7 @@ I have written the below free softwares:
 * [MultiGit](https://github.com/idemia/multigit): A graphical interface for managing multiple nested git repositories. Developed as part of my work at IDEMIA and open sourced by IDEMIA.
 * [LuaUnit](https://github.com/bluebird75/luaunit): A unit-testing framework for the Lua language with more than 400k downloads.
 * [Klotski](https://github.com/bluebird75/klotski): a mind-teaser game
-* [Indent Finder](http://www.freehackers.org/Indent_Finder): analyse source code indentation to set your editor automatically
+* [Indent Finder](https://freehackers.org/bluebird/indent-finder): analyse source code indentation to set your editor automatically
 * [PyTiCroque](http://www.freehackers.org/PyTiCroque): a software to help playing at www.croquemonster.com
 
 ### Software where I contribute
