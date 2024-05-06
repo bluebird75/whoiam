@@ -65,6 +65,8 @@ program. There is no need to know python to modify them.
 
 ## Release history
 
+Download [here](pretty-make.py) 
+
 ### 20/07/2003 - 1.3
 
 * add more compiler names
