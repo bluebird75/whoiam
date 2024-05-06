@@ -55,10 +55,13 @@ program. There is no need to know python to modify them.
 ## Screenshot
 
 *Before*
-(pretty-make-before.png)
+
+
+![](pretty-make-before.png)
 
 *After*
-(pretty-make-after.png)
+
+![](pretty-make-after.png)
 
 ## Release history
 
