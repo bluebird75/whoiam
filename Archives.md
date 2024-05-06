@@ -31,7 +31,6 @@ Pages about specific knowledge that I wrote for future reference:
 This is software that I wrote, which is nowadays completely outdated, serve no longer any purpose and probably won't run
 on any linux distribution. I keep them here for archeologists.
 
-* [PyTiCroque](http://www.freehackers.org/PyTiCroque): a software to help playing at www.croquemonster.com
 * [Pretty Make](archives/Pretty_Make.md) Beautify your make output when compiling KDE 2
 * QCppUnit: my old quest for a good unit-test framework for Qt 1.
 * [KMerge](archives/KMerge.md): a visual diffing and merging program, for KDE 1
