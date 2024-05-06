@@ -1,111 +1,103 @@
-## Obsolescence
 
-**KMerge is dead !**.
+## Pretty-Make
 
-This program was developed for KDE 1 and was never ported to KDE2, KDE3
-or KDE4! However, KDE 3 features another program, Kompare, that is far
-more beautiful and features part of what KMerge could do.
+*Pretty-Make is very very outdated. But it was useful when compiling a program for KDE2. This page is for historical purpose*
 
-If you are looking for a good diff/merge program, you can look at the
-following:
 
--   [KDiff3](http://kdiff3.sf.net) (windows and KDE versions)
--   [WinMerge](http://winmerge.sf.net) (windows only)
--   kompare, redistributed with [KDE](http://www.kde.org)
+Pretty make is a very small python script that will organise and colorize your
+make output. I have written this because when compiling, I was sick of the endless lines of
+uninteresting options, which were hiding the gcc options I was looking
+for.
 
-## Program
+The program analyses its specific options then runs make with all the other
+options. So it is compatible with make. I use it every week to compile KDE
+with alias `make="pretty_make.py"`. I use the escape codes to colorize the
+output.
 
-Kmerge is an utility to handle diffing and merging of files or
-directories. It also deals with CVS conflicts and will perhaps handle
-other type of conflicts (diff3, patch).
 
-Kmerge is distributed under the Gnu GPL and requires [Qt 1.44](http://www.trolltech.com)
-and [KDE 1](http://www.kde.org) and Gnu diff.
+People have been wondering about CPU usage. Starting the python interpreter
+takes a little CPU, but this is before you have started your
+compilation, so you sill have plenty of CPU anyway.  The python interpreter is
+started only once for a make command, so it won't matter much in you overall
+compilation speed.
 
-The current version is 0.4 and it supports file diffing and merging,
-directory diffing and merging, cvs conflicts handling at file or
-directory level. KMerge is now usable and the next step before release
-will be mainly gui enhancing and port to KDE 2.
+Now, the parsing of the
+line uses builting python functions, which are written in C. So this is fast
+and there is really not a lot of work: split the line, compare beginning of
+words, fill lists, display. And such a line is displayed when gcc choose a new
+file to compile, so the tiny amount of CPU taken would have probably not been
+used anyway (except if you use -j12) because gcc was still loading the files
+at that time. When I compile, python doesn't make into 'top', so it
+effectively does not take CPU.
+
 
 ## Features
+All features are of course configurable.
 
--   file diffing
--   file merging
--   directory diffing
--   directory merging
--   customized diff options
--   file pattern exclusion
--   cvs conflicts handling
+* Adapt the output to your terminal width
+* Hide libtool lines: the next line is the real compile line anyway.
+* Group similar options on separate lines: all -D together, all -I together, ...
+* Can hide uninteresting option: you get &lt;-W&gt; instead of all
+the -W options.
+* Colorize options differently: makes it easier to distinguish between -L,
+-I and -D
+* Colorize moc and uic lines differently: else, you tend to miss them even when looking for them
+* Enable or disable colors
+* Post-process your compilation output: compile with output to a file and
+beautify it later.
+* Useable inside vim and probably other editors
+* All options configurable
+
+The default options you might want to alter are at the beginning of the
+program. There is no need to know python to modify them.
+
 
 ## Screenshot
 
-![](http://www.freehackers.org/media/bluebird/kmerge/kmerge-shot.png)
+*Before*
+(pretty-make-before.png)
 
-## History
+*After*
+(pretty-make-after.png)
 
-A lot of programs today have many version developped at the same time
-and by many users. Developpers often need to synchronise everything.
-Although I found a lot of programs and IDE doing files and directories
-diffing, the only thing I could find to do interactive merging and
-patching was sdiff and the e-diff mode of emacs. The first is VERY
-primitive (although sufficicent for simple file merging) and the second
-is quite good but reserved to emacs-user (and I use vim).
+## Release history
 
-So I decided to start kmerge. That was a good opportunity to learn KDE
-and Qt. I was inspired by kdiff, sdiff, the e-diff mode of emacs, mdiff,
-my Needs and my Imagination.
+### 20/07/2003 - 1.3
 
-## Release
+* add more compiler names
+* add a debug option
+* handles properly argument with spaces inside
+* can now compile kernel without problems
 
-No more releases planned.
+### 02/04/2002 - 1.2
 
-### Version 0.4: 08 september 2000
+* Argument -- passes all the remaining arguments to make (pretty-make.py --
+--help yields make's help)
+* Transparancy in konsole is preserved when not altering background color.
+* Fix for arguments of type "arg=foo" that were not passed to make
+* Fix for keyboard interruption (^C) would leave the make running wild in the
+background
 
-Features:
+### 26/03/2002 - 1.1
 
--   Directory merging, CVS conflicts handling at the DIR level
+* Fixes for tcsh users
+* Improvements from Adrian Thurston
 
-Download:
-[kmerge-0.4.tar.bz2](http://www.freehackers.org/media/bluebird/kmerge/kmerge-0.4.tar.bz2)
-(141 kbytes)
+###	17/03/2002 - 1.0
 
-### Version 0.3: 09 july 2000
+Initial release
 
-Features:
 
--   CVS conflict handling
 
-Download:
-[kmerge-0.3.tar.bz2](http://www.freehackers.org/media/bluebird/kmerge/kmerge-0.3.tar.bz2)
-(124 kbytes)
+## Installation
 
-### Version 0.2: 15 may 2000
-
-Features:
-
--   Simple file merging
-
-Download:
-[kmerge-0.2.tar.bz2](http://www.freehackers.org/media/bluebird/kmerge/kmerge-0.2.tar.bz2)
-(121 kbytes)
-
-### Version 0.1: 15 september 1999
-
-Features:
-
--   Simple file diffing
-
-Download:
-[kmerge-0.1.tar.bz2](http://www.freehackers.org/media/bluebird/kmerge/kmerge-0.1.tar.bz2)
-(158 kbytes)
-
-## Feedback
-
-Well, any feedback of any kind is welcome: bug reports, features
-request, ideas, suggestions, remarks, anything that makes me think that
-someone used kmerge is good.
-
-Email me at: phil at freehackers dot org
-
-## Other software by [Philippe Fremy](https://github.com/bluebird75/)
+* in your shell: `alias make=pretty_make.py`
+* in vim (notice the backslash in front of --no-colors): `set makeprg=$HOME/python/pretty_make/pretty_make.py\ --no-colors`
+* in compilations: `export MAKE=pretty_make.py`
+* with configure: `MAKE=pretty_make.py ./configure`
+* everywhere: it works also if you symlink to it as a make executable
+(i.e `ln -s python/pretty-make/pretty_make.py bin/make`) but you must
+edit pretty_make.py to have the MAKEPROG pointing to the real make program,
+else you have recursive calls.
+* In emacs: I don't know, but it is certainly possible.
 
