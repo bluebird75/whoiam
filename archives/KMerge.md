@@ -99,13 +99,5 @@ Download:
 [kmerge-0.1.tar.bz2](http://www.freehackers.org/media/bluebird/kmerge/kmerge-0.1.tar.bz2)
 (158 kbytes)
 
-## Feedback
 
-Well, any feedback of any kind is welcome: bug reports, features
-request, ideas, suggestions, remarks, anything that makes me think that
-someone used kmerge is good.
-
-Email me at: phil at freehackers dot org
-
-## Other software by [Philippe Fremy](https://github.com/bluebird75/)
 

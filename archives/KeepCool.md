@@ -82,7 +82,7 @@ As you can see, the summer was really hot in France.
 ## Download
 
 The script is available at:
-[keepcool.py](http://www.freehackers.org/media/bluebird/keepcool/keepcool.py).
+[keepcool.py](keepcool.py).
 
 ## Usage
 
@@ -92,9 +92,5 @@ Very simple:
 
 `   python keepcool.py`
 
-## Feedback
 
-Bugs, suggestions, patch, I am open to feedback: [Contact me](Contact_Bluebird)
-
-## Other software by [Philippe Fremy](https://github.com/bluebird75/)
 

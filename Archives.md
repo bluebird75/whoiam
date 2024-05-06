@@ -33,7 +33,7 @@ on any linux distribution. I keep them here for archeologists.
 
 * [PyTiCroque](http://www.freehackers.org/PyTiCroque): a software to help playing at www.croquemonster.com
 * [Pretty Make](Philippe/Pretty_Make) Beautify your make output when compiling KDE 2
-* [QCppUnit](Philippe/QCppUnit): my old quest for a good unit-test framework for Qt 1.
-* [KMerge](Philippe/KMerge): a visual diffing and merging program, for KDE 1
-* [KeepCool](Philippe/KeepCool) Interrupt high CPU process if your CPU goes too hot!
+* QCppUnit: my old quest for a good unit-test framework for Qt 1.
+* [KMerge](archives/KMerge.md): a visual diffing and merging program, for KDE 1
+* [KeepCool](archives/KeepCool.md) Interrupt high CPU process if your CPU goes too hot!
 
