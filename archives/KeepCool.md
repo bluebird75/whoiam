@@ -60,20 +60,22 @@ temperature check.
 
 KeepCool in action :
 
-`   werewindle /home/philippe/python/keepcool # python keepcool.py`
-`   22:42:13 CPU are above max temperature :  53.1`
-`   process stopped:  15046 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -`
-`   1 process currently stopped`
-`   22:42:58 Temperature is down again :  47.6 49.7`
-`   Restarting  15046 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -`
-`   22:43:28 CPU are above max temperature :  53.1`
-`   process stopped:  16130 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -`
-`   process stopped:  16265 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1 -fpre`
-`   2 process currently stopped`
-`   22:43:43 Temperature is down again :  46.7 49.6`
-`   Restarting  16130 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -`
-`   22:43:48 Temperature is down again :  48.7 49.7`
-`   Restarting  16265 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1 -fpre`
+```
+   werewindle /home/philippe/python/keepcool # python keepcool.py
+   22:42:13 CPU are above max temperature :  53.1
+   process stopped:  15046 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -
+   1 process currently stopped
+   22:42:58 Temperature is down again :  47.6 49.7
+   Restarting  15046 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -
+   22:43:28 CPU are above max temperature :  53.1
+   process stopped:  16130 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -
+   process stopped:  16265 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1 -fpre
+   2 process currently stopped
+   22:43:43 Temperature is down again :  46.7 49.6
+   Restarting  16130 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1plus -
+   22:43:48 Temperature is down again :  48.7 49.7
+   Restarting  16265 /usr/lib/gcc-lib/i686-pc-linux-gnu/3.2.3/cc1 -fpre
+```
 
 As you can see, the summer was really hot in France.
 
